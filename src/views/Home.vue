@@ -46,7 +46,7 @@
                   >
                   <h3 class="white--text ml-3 mt-4">Our Product</h3>
                   <p class="black--text ml-3 mt-6">
-                    Lorem, ipsum dolor sit amet <br />consectetur adipisicing
+                    Lorem, ipsum dolor sit amett <br />consectetur adipisicing
                     elit.
                   </p>
                   <v-btn color="" dark text>
