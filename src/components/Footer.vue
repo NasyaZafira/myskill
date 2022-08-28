@@ -10,7 +10,7 @@
         <v-col cols="12" sm="4">
           <v-card-text class="white--text pt-2">
             <v-btn icon>
-              <v-icon color="#A7121D">fas fa-dragon</v-icon>
+              <v-icon color="#a69eb0">fa-regular fa-seedling</v-icon>
             </v-btn>
           </v-card-text>
         </v-col>
@@ -32,9 +32,9 @@
         <v-col cols="12" sm="4">
           <v-card-text class="pt-2">
             <v-btn class="mx-1 white--text" icon>
-              <v-icon color="#A7121D">mdi-heart</v-icon>
+              <v-icon color="#a69eb0">mdi-heart</v-icon>
             </v-btn>
-            Created by AAE IdeaPro
+            Created by Austenita Nasya Rafi
           </v-card-text>
         </v-col>
       </v-row>
